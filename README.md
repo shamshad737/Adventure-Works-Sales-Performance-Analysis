@@ -13,6 +13,7 @@ Tools & Technologies: Power BI, Power Query, DAX, Data Visualization
 
 
 Steps Involved:
+
 Data Integration: Connected various data sources to Power BI Desktop.
 ETL Operations: Performed ETL (Extract, Transform, Load) operations using Power Query to clean and prepare the
 data.
